@@ -1,5 +1,10 @@
 # directory
 
+How to run the code
+gcc main.c
+./a.out
+
+Capability
 a. Insert:insert one data，Type:i,studentID,name,phone,age
 Example:i,400410026,henry,0912563563,20
 Print the inserted data, failure that data exist already.
